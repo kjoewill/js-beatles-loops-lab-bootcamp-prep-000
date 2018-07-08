@@ -18,3 +18,11 @@ function johnLennonFacts(facts) {
   }
   return exclaimedFacts
 }
+
+function iLoveTheBeatles (x) {
+  var loveStatements = []
+  for (i = 0; i < x; i++) {
+    loveStatements.push("I love the Beatles!")
+  }
+  return loveStatements
+}
