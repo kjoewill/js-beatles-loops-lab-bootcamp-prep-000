@@ -10,5 +10,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 
 function johnLennonFacts(facts) {
-  while ()
+  while (condition) {
+    code block to be executed
+}
 }
