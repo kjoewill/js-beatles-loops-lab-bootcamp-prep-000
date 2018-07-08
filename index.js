@@ -20,6 +20,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles (x) {
+  var i
   var loveStatements = []
   for (i = 0; i < x; i++) {
     loveStatements.push("I love the Beatles!")
