@@ -1,1 +1,4 @@
-function theBeatlesPlay// add solution here
+function theBeatlesPlay(musicians, instruments) {
+  var artistInstrumentArray = {}
+  
+}
