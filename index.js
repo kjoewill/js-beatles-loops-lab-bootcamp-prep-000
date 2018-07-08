@@ -8,9 +8,10 @@ function theBeatlesPlay(musicians, instruments) {
   return artistInstrumentArray
 }
 
-var count = 0
-var exclaimedFacts = []
+
 function johnLennonFacts(facts) {
+  var count = 0
+  var exclaimedFacts = []
   while (count < facts.length) {
     exclaimedFacts.push(facts[count] + "!!!")
     count++
